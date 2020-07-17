@@ -1,0 +1,16 @@
+http://octomaton.blogspot.com/2014/07/hello-world-on-heroku-with-python.html
+
+https://devcenter.heroku.com/articles/heroku-cli
+
+https://github.com/ddollar/heroku-push
+
+https://dashboard.heroku.com/apps/tech-war/resources
+
+https://devcenter.heroku.com/articles/procfile#procfile-naming-and-location
+
+https://devcenter.heroku.com/categories/python-support
+
+https://devcenter.heroku.com/articles/flask-memcache#create-a-flask-application-for-heroku
+
+https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-python#buildpack-instructions
+
