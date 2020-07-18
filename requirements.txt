@@ -7,4 +7,6 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.9.2
 scipy>=0.15.1
-
+certifi==2019.3.9
+python-dotenv==0.10.1
+wincertstore==0.2
